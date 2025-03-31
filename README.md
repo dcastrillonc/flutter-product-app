@@ -33,3 +33,7 @@ Dirigirse a la carpeta del proyecto `cd flutter-product-app` y ejecutar el coman
 **3. Ejecutar la aplicación**
 
 Conectar un emulador Android o un dispositivo físico con depuración USB, luego ejecutar el comando `flutter run` lo que iniciará la aplicación en el emulador o en el dispositivo conectado.
+
+## APK
+
+En el siguiente link se encuentra un .zip con el archivo APK de la aplicación https://github.com/dcastrillonc/flutter-product-app/releases/tag/APK o descargar directamente el archivo enviado por correo.
