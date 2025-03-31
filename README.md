@@ -4,7 +4,10 @@ Solución al punto de desarrollo móvil de la prueba técnica por Daniela Castri
 
 Este es un proyecto de una aplicación móvil en Flutter que muestra una lista de productos obtenida desde una API pública. La aplicación incluye funcionalidades como carga infinita de productos al hacer scroll, pantalla de detalle para mostrar la descripción e imagen de un producto seleccionado y la gestión de estado utilizando Provider.
 
-*poner ss
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f68c0b2d-b300-4137-a248-d7e7eebda0a1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5718a1e9-6678-409d-8c01-b94ffdeeed1e" width="200"/>
+</p>
 
 ## Detalles de instalación y configuración antes de ejecutar el proyecto
 
@@ -19,9 +22,9 @@ Para ejecutar este proyecto es necesario tener instalado `Flutter`, `Android Stu
 
 Seguir los siguientes pasos para ejecutar el proyecto en una máquina local.
 
-**1. Clonar el repositorio **
+**1. Clonar el repositorio**
 
-Clonar el repositorio en la máquina local utilizando el comando git clone https://github.com/dcastrillonc/flutter-product-app.git o usando GitHub Desktop.
+Clonar el repositorio en la máquina local utilizando el comando `git clone https://github.com/dcastrillonc/flutter-product-app.git` o usando `GitHub Desktop`.
 
 **2. Instalar las dependencias**
 
