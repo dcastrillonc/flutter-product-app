@@ -36,4 +36,4 @@ Conectar un emulador Android o un dispositivo físico con depuración USB, luego
 
 ## APK
 
-En el siguiente link se encuentra un .zip con el archivo APK de la aplicación https://github.com/dcastrillonc/flutter-product-app/releases/tag/APK o descargar directamente el archivo enviado por correo.
+En el siguiente link se encuentra un .zip con el archivo APK de la aplicación https://github.com/dcastrillonc/flutter-product-app/releases/tag/APK o descargar directamente el .zip enviado por correo.
